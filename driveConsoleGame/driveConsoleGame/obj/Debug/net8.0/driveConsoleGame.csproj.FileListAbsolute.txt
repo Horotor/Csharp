@@ -1,0 +1,14 @@
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\bin\Debug\net8.0\driveConsoleGame.exe
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\bin\Debug\net8.0\driveConsoleGame.deps.json
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\bin\Debug\net8.0\driveConsoleGame.runtimeconfig.json
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\bin\Debug\net8.0\driveConsoleGame.dll
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\bin\Debug\net8.0\driveConsoleGame.pdb
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.AssemblyInfoInputs.cache
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.AssemblyInfo.cs
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.dll
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\refint\driveConsoleGame.dll
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.pdb
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\driveConsoleGame.genruntimeconfig.cache
+C:\Users\chete\source\repos\driveConsoleGame\driveConsoleGame\obj\Debug\net8.0\ref\driveConsoleGame.dll
